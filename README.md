@@ -2,6 +2,7 @@
 Gem5 x86 simulation and benchmark results for towers of hanoi problem.
 
 
+Getting started with gem5 : http://learning.gem5.org/book/index.html
 _______________________________________________________________________________________________
 Problem Statement: Run a benchmark program on different system configurations on gem5 and analyse the output statistics of each of these config combinations to 
                    select top 10 combinations.
