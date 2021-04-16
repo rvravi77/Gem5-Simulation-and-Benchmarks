@@ -20,6 +20,6 @@ To run scripts on your own system do following:
    also contains code(commented) for running all possible combinations.
 2. Make path changes in line 13-23 in script.py according to the comments given.
 3. Run script.py as : ~$ python3 script.py 
-4. stats.txt created in 'm5out/SIMnum' directory.
+4. stats.txt created in 'm5out/SIMnum'directory.
 
 ******************************************************************************************************************************************************************
